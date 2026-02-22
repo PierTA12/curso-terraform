@@ -1,0 +1,6 @@
+#.tfsate files
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+
+#Local

@@ -1,0 +1,5 @@
+location = "eastus2"
+resource_group_name = "vmgroup"
+vm_admin_username = "FriedNietz"
+vm_admin_password = "Pol@r1s2024"
+name = "RandomF"
