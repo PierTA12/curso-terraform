@@ -1,6 +1,9 @@
-#.tfsate files
+# Terraform
+.terraform/
+.terraform.lock.hcl
 *.tfstate
-*.tfstate.*
-*.terraform.lock.hcl
-
-#Local
+*.tfstate.backup
+*.tfvars
+crash.log
+override.tf
+override.tf.json
